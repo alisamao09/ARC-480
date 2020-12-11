@@ -5,7 +5,7 @@ Design with data project
 An inevitable topic this year, we wanted to explore the effects of the global pandemic as it has affected our home city, Toronto. Our aim was to demonstrate patterns between COVID-19 case counts and the ongoing discussion of the virus on social media. 
 We sought to potentially identify links between social media activity and actual daily cases, and the hopeful outcome that discussions regarding the virus mean people are taking the situation seriously, keeping up with the news, and not being fatigued by its constant mention or the never-ending safety measures being implemented. Our demonstration was to ideally be depicted through an easy to comprehend, text-based visual animation. 
 
-# Main process
+## Main process
 * Demonstrated patterns between COVID-19 case counts and the ongoing discussion of the virus on social media 
 * Scraped key phrases in tweets regarding COVID by ScrapeStorm, filtering them by tweet location (Toronto) and months (March to December)
 * Found the most frequent words by calculating word frequencies using WriteWords
